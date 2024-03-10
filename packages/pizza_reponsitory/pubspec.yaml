@@ -1,4 +1,4 @@
-name: pizza_reponsitory
+name: pizza_repository
 description: The Repos that handles pizzas
 publish: 'none'
 version: 0.0.1

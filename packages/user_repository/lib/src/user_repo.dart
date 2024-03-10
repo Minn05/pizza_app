@@ -1,6 +1,6 @@
 import 'models/models.dart';
 
-abstract class UserReponsitory {
+abstract class UserRepository {
   Stream<MyUser?> get user;
 
   Future<void> signIn(String email, String password);

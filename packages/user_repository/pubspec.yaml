@@ -1,4 +1,4 @@
-name: user_reponsitory
+name: user_repository
 description: The Repos that handles users
 publish: 'none'
 version: 0.0.1
